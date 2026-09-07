@@ -5,13 +5,13 @@ about:
   head: b379852
   archived: false
   latestVersion: "v2.10"
-  collectedAt: 2026-09-07T05:05:41Z
+  collectedAt: 2026-09-07T19:18:16Z
 timeline:
   created: 2015-09-07
   lastCommit: 2026-09-02
   lastRelease: 2026-07-04
 popularity:
-  star: 23505
+  star: 23507
   watcher: 213
   fork: 1125
   release: 25
@@ -178,7 +178,7 @@ total:
   commit: 1339
 ---
 path: /home/runner/.x-repo/github.com/AlDanial/cloc
-collectedAt: 2026-09-07T05:05:46Z
+collectedAt: 2026-09-07T19:18:22Z
 loc:
   Yaml:
     code: 11615
@@ -922,7 +922,7 @@ checks:
       - 'Info:   0 out of   2 pipCommand dependencies pinned'
 ---
 eget:
-  collectedAt: 2026-09-07T05:05:46+00:00
+  collectedAt: 2026-09-07T19:18:23+00:00
   platform:
     darwin/arm64:
       name:  null
