@@ -7,7 +7,7 @@ cloc counts blank lines, comment lines, and physical lines of source code in man
 - **Latest release**: `v2.10` (2026-07-04)
 - **Last commit**: 2026-09-08
 - **License**: GPL-2.0
-- **Stars**: 23509 · **Forks**: 1125 · **Open issues**: 763 · **Contributors**: 141
+- **Stars**: 23513 · **Forks**: 1125 · **Open issues**: 763 · **Contributors**: 141
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/cloc> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:09:53Z._
+_Last regenerated: 2026-09-09T19:41:18Z._
