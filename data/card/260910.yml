@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10"
   latestRelease: "v2.10"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:10:39Z
+  collectedAt: 2026-09-10T20:51:37Z
 timeline:
   created: 2015-09-07
   lastCommit: 2026-09-08
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-04
   lastPrerelease: 
 popularity:
-  star: 23515
+  star: 23517
   watcher: 213
-  fork: 1125
+  fork: 1124
   release: 25
   contributor: 141
   pullRequest: 213
@@ -182,7 +182,7 @@ total:
   commit: 1342
 ---
 path: /home/runner/.x-repo/github.com/AlDanial/cloc
-collectedAt: 2026-09-10T05:10:46Z
+collectedAt: 2026-09-10T20:51:42Z
 loc:
   Yaml:
     code: 11615
