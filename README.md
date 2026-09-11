@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,517 · **Forks**: 1,124 · **Open issues**: 763 · **Contributors**: 141
+- **Stars**: 23,516 · **Forks**: 1,124 · **Open issues**: 763 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 1 | 1 | 4 |
-| last60d | 2026-07-12 | 0 | 3 | 1 | 3 | 1 | 8 |
-| 90d | 2026-06-12 | 1 | 5 | 1 | 6 | 1 | 20 |
-| last180d | 2026-03-14 | 1 | 11 | 1 | 9 | 1 | 32 |
-| 360d | 2025-09-15 | 2 | 18 | 1 | 26 | 4 | 68 |
-| last720d | 2024-09-20 | 4 | 31 | 1 | 88 | 6 | 192 |
+| 30d | 2026-08-12 | 0 | 1 | 1 | 1 | 1 | 4 |
+| last60d | 2026-07-13 | 0 | 3 | 1 | 3 | 1 | 8 |
+| 90d | 2026-06-13 | 1 | 5 | 1 | 6 | 1 | 20 |
+| last180d | 2026-03-15 | 1 | 11 | 1 | 9 | 1 | 32 |
+| 360d | 2025-09-16 | 2 | 18 | 1 | 26 | 4 | 68 |
+| last720d | 2024-09-21 | 4 | 31 | 1 | 88 | 6 | 192 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **144** distros on [repology.org](https://repology.org/project/cloc). **24** are ✅ on the latest upstream release, **94** are ⚠️ on an older version.
+Reported by **143** distros on [repology.org](https://repology.org/project/cloc). **25** are ✅ on the latest upstream release, **92** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **144** distros on [repology.org](https://repology.org/project/cloc)
 | Debian 13 | `2.04` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.06` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
-| Arch | `2.08` | ⚠️ outdated |
+| Arch | `2.10` | ✅ latest |
 | Homebrew | `2.10` | ✅ latest |
 | Fedora rawhide | `2.10` | ✅ latest |
 | Nix unstable | `2.10` | ✅ latest |
@@ -100,4 +100,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:00:41Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:06:34Z._
