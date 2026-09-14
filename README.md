@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10` (2026-07-04)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-14
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 23,521 · **Forks**: 1,123 · **Open issues**: 763 · **Contributors**: 141
+- **Stars**: 23,528 · **Forks**: 1,125 · **Open issues**: 763 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 737 · **Open issues**: 26 · **Commits**: 1342
+- **Releases**: 25 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 737 · **Open issues**: 26 · **Commits**: 1343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 1 | 0 | 1 | 1 | 4 |
-| last60d | 2026-07-15 | 0 | 3 | 1 | 3 | 1 | 8 |
-| 90d | 2026-06-15 | 1 | 5 | 1 | 6 | 1 | 20 |
-| last180d | 2026-03-17 | 1 | 11 | 1 | 9 | 1 | 32 |
-| 360d | 2025-09-18 | 2 | 18 | 1 | 26 | 4 | 68 |
-| last720d | 2024-09-23 | 4 | 31 | 1 | 87 | 6 | 192 |
+| 30d | 2026-08-15 | 0 | 1 | 0 | 1 | 1 | 5 |
+| last60d | 2026-07-16 | 0 | 3 | 1 | 2 | 1 | 8 |
+| 90d | 2026-06-16 | 1 | 5 | 1 | 6 | 1 | 19 |
+| last180d | 2026-03-18 | 1 | 11 | 1 | 9 | 1 | 33 |
+| 360d | 2025-09-19 | 2 | 18 | 1 | 26 | 4 | 69 |
+| last720d | 2024-09-24 | 4 | 31 | 1 | 86 | 6 | 192 |
 
 ## Release assets
 
@@ -73,24 +73,6 @@ Lowest-scoring checks:
 | [release_notes-2.10.txt](https://github.com/AlDanial/cloc/releases/download/v2.10/release_notes-2.10.txt) | 56.8 KiB | `other` |
 | [sqlite_formatter](https://github.com/AlDanial/cloc/releases/download/v2.10/sqlite_formatter) | 1.8 KiB | `other` |
 
-## Distribution status
-
-Reported by **143** distros on [repology.org](https://repology.org/project/cloc). **26** are ✅ on the latest upstream release, **91** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.08` | ⚠️ outdated |
-| Debian 14 | `2.08` | ⚠️ outdated |
-| Debian 13 | `2.04` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.06` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
-| Arch | `2.10` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Fedora rawhide | `2.10` | ✅ latest |
-| Nix unstable | `2.10` | ✅ latest |
-| Void | `2.10` | ✅ latest |
-| Alpine edge | `2.10` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cloc` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +82,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:16:27Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:25:24Z._
