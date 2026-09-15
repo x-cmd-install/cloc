@@ -26,13 +26,13 @@ Total: **23,449** lines of code across **509** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.1 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 8/20 approved changesets -- score normalized to 4
-- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (3/10) — Found 7/21 approved changesets -- score normalized to 3
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,528 · **Forks**: 1,125 · **Open issues**: 763 · **Contributors**: 141
+- **Stars**: 23,534 · **Forks**: 1,126 · **Open issues**: 764 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 737 · **Open issues**: 26 · **Commits**: 1343
+- **Releases**: 25 · **Merged PRs**: 188 · **Open PRs**: 1 · **Closed issues**: 737 · **Open issues**: 27 · **Commits**: 1343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 1 | 0 | 1 | 1 | 5 |
-| last60d | 2026-07-16 | 0 | 3 | 1 | 2 | 1 | 8 |
-| 90d | 2026-06-16 | 1 | 5 | 1 | 6 | 1 | 19 |
-| last180d | 2026-03-18 | 1 | 11 | 1 | 9 | 1 | 33 |
-| 360d | 2025-09-19 | 2 | 18 | 1 | 26 | 4 | 69 |
-| last720d | 2024-09-24 | 4 | 31 | 1 | 86 | 6 | 192 |
+| 30d | 2026-08-16 | 0 | 1 | 0 | 1 | 2 | 5 |
+| last60d | 2026-07-17 | 0 | 3 | 1 | 2 | 2 | 8 |
+| 90d | 2026-06-17 | 1 | 5 | 1 | 6 | 2 | 19 |
+| last180d | 2026-03-19 | 1 | 11 | 1 | 9 | 2 | 33 |
+| 360d | 2025-09-20 | 2 | 18 | 1 | 26 | 5 | 69 |
+| last720d | 2024-09-25 | 4 | 31 | 1 | 86 | 7 | 192 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:25:24Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:27:15Z._
