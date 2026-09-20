@@ -4,7 +4,7 @@
 
 cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
-![cloc](https://repo.x-cmd.io/cloc.svg?lang=zh)
+[![x-cmd/install — cloc Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cloc.svg?lang=zh)](https://x-cmd.com/install/cloc)
 
 ## 安装
 
@@ -42,27 +42,27 @@ x install cloc
 ## 发布
 
 - **最新版本**: `v2.10` (2026-07-04)
-- **最近提交**: 2026-09-14
+- **最近提交**: 2026-09-20
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 23,543 · **Fork**: 1,126 · **开放 issue**: 764 · **贡献者**: 141
+- **Star**: 23,549 · **Fork**: 1,125 · **开放 issue**: 765 · **贡献者**: 141
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 188 · **开放 PR**: 1 · **已关闭 issue**: 738 · **开放 issue**: 26 · **提交数**: 1343
+- **发布数**: 25 · **已合并 PR**: 189 · **开放 PR**: 0 · **已关闭 issue**: 739 · **开放 issue**: 26 · **提交数**: 1347
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 1 | 0 | 2 | 1 | 5 |
-| last60d | 2026-07-20 | 0 | 3 | 1 | 3 | 1 | 8 |
-| 90d | 2026-06-20 | 1 | 5 | 1 | 6 | 1 | 19 |
-| last180d | 2026-03-22 | 1 | 11 | 1 | 10 | 1 | 33 |
-| 360d | 2025-09-23 | 2 | 18 | 1 | 27 | 4 | 69 |
-| last720d | 2024-09-28 | 4 | 31 | 1 | 87 | 6 | 192 |
+| 30d | 2026-08-21 | 0 | 1 | 0 | 3 | 1 | 6 |
+| last60d | 2026-07-22 | 0 | 4 | 0 | 4 | 1 | 10 |
+| 90d | 2026-06-22 | 1 | 6 | 0 | 7 | 1 | 22 |
+| last180d | 2026-03-24 | 1 | 12 | 0 | 11 | 1 | 36 |
+| 360d | 2025-09-25 | 2 | 19 | 0 | 28 | 4 | 72 |
+| last720d | 2024-09-30 | 4 | 32 | 0 | 88 | 6 | 196 |
 
 ## Release 资产
 
@@ -82,4 +82,4 @@ cloc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:16:12Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:37:03Z._
