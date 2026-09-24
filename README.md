@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,555 · **Forks**: 1,125 · **Open issues**: 765 · **Contributors**: 141
+- **Stars**: 23,554 · **Forks**: 1,125 · **Open issues**: 765 · **Contributors**: 141
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 1 | 0 | 3 | 1 | 6 |
-| last60d | 2026-07-25 | 0 | 4 | 0 | 4 | 1 | 10 |
-| 90d | 2026-06-25 | 1 | 6 | 0 | 7 | 1 | 22 |
-| last180d | 2026-03-27 | 1 | 12 | 0 | 11 | 1 | 36 |
-| 360d | 2025-09-28 | 2 | 19 | 0 | 28 | 4 | 72 |
-| last720d | 2024-10-03 | 4 | 32 | 0 | 87 | 6 | 196 |
+| 30d | 2026-08-25 | 0 | 1 | 0 | 3 | 1 | 6 |
+| last60d | 2026-07-26 | 0 | 4 | 0 | 4 | 1 | 10 |
+| 90d | 2026-06-26 | 1 | 6 | 0 | 7 | 1 | 22 |
+| last180d | 2026-03-28 | 1 | 12 | 0 | 11 | 1 | 36 |
+| 360d | 2025-09-29 | 2 | 19 | 0 | 28 | 4 | 72 |
+| last720d | 2024-10-04 | 4 | 32 | 0 | 86 | 6 | 196 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:23:51Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:10:30Z._
