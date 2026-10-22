@@ -14,11 +14,11 @@ x install cloc
 
 ## Code insight
 
-Total: **23,449** lines of code across **509** files in the top 5 languages.
+Total: **23,525** lines of code across **512** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 11,615 | 483 | 6 | 486 |
+| Yaml | 11,675 | 486 | 6 | 489 |
 | R | 698 | 312 | 95 | 3 |
 | Python | 693 | 134 | 159 | 15 |
 | CHeader | 617 | 780 | 191 | 1 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10` (2026-07-04)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-10-22
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 23,608 · **Forks**: 1,126 · **Open issues**: 768 · **Contributors**: 141
+- **Stars**: 23,613 · **Forks**: 1,126 · **Open issues**: 768 · **Contributors**: 141
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 189 · **Open PRs**: 0 · **Closed issues**: 741 · **Open issues**: 27 · **Commits**: 1347
+- **Releases**: 25 · **Merged PRs**: 190 · **Open PRs**: 0 · **Closed issues**: 741 · **Open issues**: 27 · **Commits**: 1349
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 0 | 2 | 1 | 0 |
-| last60d | 2026-08-22 | 0 | 1 | 0 | 5 | 2 | 7 |
-| 90d | 2026-07-23 | 0 | 4 | 0 | 6 | 2 | 11 |
-| last180d | 2026-04-24 | 1 | 11 | 0 | 11 | 2 | 33 |
-| 360d | 2025-10-26 | 2 | 18 | 0 | 27 | 3 | 63 |
-| last720d | 2024-10-31 | 4 | 32 | 0 | 84 | 7 | 191 |
+| 30d | 2026-09-22 | 0 | 1 | 0 | 2 | 1 | 1 |
+| last60d | 2026-08-23 | 0 | 2 | 0 | 5 | 2 | 8 |
+| 90d | 2026-07-24 | 0 | 5 | 0 | 6 | 2 | 12 |
+| last180d | 2026-04-25 | 1 | 12 | 0 | 11 | 2 | 34 |
+| 360d | 2025-10-27 | 2 | 19 | 0 | 27 | 3 | 64 |
+| last720d | 2024-11-01 | 4 | 33 | 0 | 84 | 7 | 193 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:08:11Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:08:55Z._
