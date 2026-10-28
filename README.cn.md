@@ -26,13 +26,13 @@ x install cloc
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.9 / 10**
+总评分: **4.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -47,7 +47,7 @@ x install cloc
 
 ## 流行度
 
-- **Star**: 23,626 · **Fork**: 1,128 · **开放 issue**: 769 · **贡献者**: 143
+- **Star**: 23,629 · **Fork**: 1,126 · **开放 issue**: 769 · **贡献者**: 143
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install cloc
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 5 | 0 | 3 | 1 | 10 |
-| last60d | 2026-08-28 | 0 | 5 | 0 | 6 | 2 | 16 |
-| 90d | 2026-07-29 | 0 | 8 | 0 | 7 | 2 | 20 |
-| last180d | 2026-04-30 | 1 | 16 | 0 | 12 | 2 | 41 |
-| 360d | 2025-11-01 | 2 | 22 | 0 | 28 | 3 | 70 |
-| last720d | 2024-11-06 | 4 | 37 | 0 | 83 | 7 | 205 |
+| 30d | 2026-09-28 | 0 | 5 | 0 | 3 | 1 | 10 |
+| last60d | 2026-08-29 | 0 | 5 | 0 | 6 | 2 | 16 |
+| 90d | 2026-07-30 | 0 | 8 | 0 | 7 | 2 | 20 |
+| last180d | 2026-05-01 | 1 | 16 | 0 | 12 | 2 | 41 |
+| 360d | 2025-11-02 | 2 | 22 | 0 | 28 | 3 | 70 |
+| last720d | 2024-11-07 | 4 | 37 | 0 | 82 | 7 | 205 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ cloc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261027.yml` · 2026-10-27T05:31:21Z._
+_数据快照: `data/card/261028.yml` · 2026-10-28T06:04:30Z._

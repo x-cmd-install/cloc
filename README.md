@@ -26,13 +26,13 @@ Total: **23,567** lines of code across **514** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.9 / 10**
+Overall score: **4.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/22 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,626 · **Forks**: 1,128 · **Open issues**: 769 · **Contributors**: 143
+- **Stars**: 23,629 · **Forks**: 1,126 · **Open issues**: 769 · **Contributors**: 143
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 5 | 0 | 3 | 1 | 10 |
-| last60d | 2026-08-28 | 0 | 5 | 0 | 6 | 2 | 16 |
-| 90d | 2026-07-29 | 0 | 8 | 0 | 7 | 2 | 20 |
-| last180d | 2026-04-30 | 1 | 16 | 0 | 12 | 2 | 41 |
-| 360d | 2025-11-01 | 2 | 22 | 0 | 28 | 3 | 70 |
-| last720d | 2024-11-06 | 4 | 37 | 0 | 83 | 7 | 205 |
+| 30d | 2026-09-28 | 0 | 5 | 0 | 3 | 1 | 10 |
+| last60d | 2026-08-29 | 0 | 5 | 0 | 6 | 2 | 16 |
+| 90d | 2026-07-30 | 0 | 8 | 0 | 7 | 2 | 20 |
+| last180d | 2026-05-01 | 1 | 16 | 0 | 12 | 2 | 41 |
+| 360d | 2025-11-02 | 2 | 22 | 0 | 28 | 3 | 70 |
+| last720d | 2024-11-07 | 4 | 37 | 0 | 82 | 7 | 205 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:31:17Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T06:04:25Z._
