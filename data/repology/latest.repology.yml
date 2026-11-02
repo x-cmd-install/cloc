@@ -1,54 +1,21 @@
-- repo: deepin_25
-  subrepo: main
+- repo: aix_osp
   srcname: cloc
-  binnames:
-    - cloc
   visiblename: cloc
-  version: "1.98"
-  origversion: 1.98-1
+  version: "1.56"
+  origversion: 1.56-1
   status: legacy
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: deepin_25
-  subrepo: community
+- repo: aix_osp
   srcname: cloc
-  binnames:
-    - cloc
   visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-- repo: devuan_4_0
-  subrepo: chimaera/main
+  version: "1.58"
+  origversion: 1.58-1
+  status: legacy
+- repo: aix_osp
   srcname: cloc
-  binnames:
-    - cloc
   visiblename: cloc
-  version: "1.86"
-  origversion: 1.86-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: devuan_unstable
-  subrepo: unstable/main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-2
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
+  version: "1.60"
+  origversion: 1.60-1
+  status: legacy
 - repo: aix_osp
   srcname: cloc
   visiblename: cloc
@@ -73,20 +40,6 @@
   version: "1.70"
   origversion: 1.70-1
   status: legacy
-- repo: pureos_byzantium
-  subrepo: byzantium/main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.86"
-  origversion: 1.86-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: aix_osp
   srcname: cloc
   visiblename: cloc
@@ -105,83 +58,29 @@
   version: "1.76"
   origversion: 1.76-1
   status: legacy
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: aix_osp
   srcname: cloc
   visiblename: cloc
   version: "1.80"
   origversion: 1.80-1
   status: legacy
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.96"
-  origversion: 1.96-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: aix_osp
   srcname: cloc
   visiblename: cloc
   version: "1.82"
   origversion: 1.82-1
   status: outdated
-- repo: raspbian_stable
-  subrepo: main
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: cloc
-  binnames:
-    - cloc
+  binname: cloc
   visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: raspbian_testing
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-2
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: deepin_unstable
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.80"
-  origversion: 1.80-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
+  version: "2.10"
+  origversion: 2.10-1
+  status: newest
+  summary: Count lines of code
+  licenses:
+    - GPL-2.0-or-later
 - repo: adelie_current
   subrepo: user
   srcname: cloc
@@ -195,19 +94,6 @@
     - sheila@vulpine.house
   licenses:
     - GPL-2.0+
-- repo: deepin_23
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.98"
-  origversion: 1.98-1
-  status: legacy
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: adelie_current
   subrepo: user
   srcname: cloc
@@ -232,24 +118,6 @@
   visiblename: cloc
   version: "1.55"
   origversion: 1.55-1
-  status: legacy
-- repo: aix_osp
-  srcname: cloc
-  visiblename: cloc
-  version: "1.56"
-  origversion: 1.56-1
-  status: legacy
-- repo: aix_osp
-  srcname: cloc
-  visiblename: cloc
-  version: "1.58"
-  origversion: 1.58-1
-  status: legacy
-- repo: aix_osp
-  srcname: cloc
-  visiblename: cloc
-  version: "1.60"
-  origversion: 1.60-1
   status: legacy
 - repo: alpine_3_17
   subrepo: community
@@ -342,19 +210,6 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - GPL-2.0-or-later Artistic-2.0
-- repo: deepin_23
-  subrepo: community
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: alpine_3_20
   subrepo: community
   srcname: cloc
@@ -682,6 +537,95 @@
     - tmancill@debian.org
   categories:
     - devel
+- repo: deepin_unstable
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.80"
+  origversion: 1.80-1
+  status: outdated
+  maintainers:
+    - jari.aalto@cante.net
+    - tmancill@debian.org
+- repo: deepin_23
+  subrepo: community
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: deepin_23
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.98"
+  origversion: 1.98-1
+  status: legacy
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: deepin_25
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.98"
+  origversion: 1.98-1
+  status: legacy
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: deepin_25
+  subrepo: community
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.86"
+  origversion: 1.86-1
+  status: outdated
+  maintainers:
+    - jari.aalto@cante.net
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.08"
+  origversion: 2.08-2
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
 - repo: epel_6
   srcname: cloc
   visiblename: cloc
@@ -741,6 +685,16 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: slackbuilds
+  srcname: development/cloc
+  visiblename: development/cloc
+  version: "2.10"
+  origversion: null
+  status: newest
+  maintainers:
+    - jebrhansen+sbo@gmail.com
+  categories:
+    - development
 - repo: exherbo
   subrepo: heirecka
   srcname: dev-util/cloc
@@ -753,20 +707,6 @@
     - fallback-mnt-exherbo@repology
   categories:
     - dev-util
-- repo: fedora_39
-  subrepo: updates
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.02"
-  origversion: 2.02-1.fc39
-  status: outdated
-  summary: Count lines of code
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
 - repo: fedora_39
   subrepo: release
   srcname: cloc
@@ -781,14 +721,14 @@
     - GPLv2+
   categories:
     - Unspecified
-- repo: fedora_40
+- repo: fedora_39
   subrepo: updates
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
   version: "2.02"
-  origversion: 2.02-1.fc40
+  origversion: 2.02-1.fc39
   status: outdated
   summary: Count lines of code
   licenses:
@@ -809,14 +749,14 @@
     - GPLv2+
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: updates
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.06"
-  origversion: 2.06-1.fc41
+  version: "2.02"
+  origversion: 2.02-1.fc40
   status: outdated
   summary: Count lines of code
   licenses:
@@ -832,6 +772,20 @@
   version: "2.02"
   origversion: 2.02-1.fc41
   status: legacy
+  summary: Count lines of code
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.06"
+  origversion: 2.06-1.fc41
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -866,20 +820,6 @@
   categories:
     - Unspecified
 - repo: fedora_43
-  subrepo: release
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.06"
-  origversion: 2.06-2.fc43
-  status: legacy
-  summary: Count lines of code
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_43
   subrepo: updates
   srcname: cloc
   binnames:
@@ -893,14 +833,14 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: fedora_44
+- repo: fedora_43
   subrepo: release
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-1.fc44
+  version: "2.06"
+  origversion: 2.06-2.fc43
   status: legacy
   summary: Count lines of code
   licenses:
@@ -916,6 +856,20 @@
   version: "2.10"
   origversion: 2.10-1.fc44
   status: newest
+  summary: Count lines of code
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
+  subrepo: release
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.08"
+  origversion: 2.08-1.fc44
+  status: legacy
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -1143,34 +1097,23 @@
   srcname: cloc
   binname: cloc
   visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-1
+  version: "1.98"
+  origversion: 1.98-1
   status: outdated
   summary: Count lines of code
   licenses:
-    - GPL-2.0-or-later
+    - GPL
 - repo: manjaro_testing
   subrepo: extra
   srcname: cloc
   binname: cloc
   visiblename: cloc
-  version: "2.10"
-  origversion: 2.10-1
-  status: newest
+  version: "1.98"
+  origversion: 1.98-1
+  status: outdated
   summary: Count lines of code
   licenses:
-    - GPL-2.0-or-later
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: cloc
-  binname: cloc
-  visiblename: cloc
-  version: "2.10"
-  origversion: 2.10-1
-  status: newest
-  summary: Count lines of code
-  licenses:
-    - GPL-2.0-or-later
+    - GPL
 - repo: msys2_msys2
   subrepo: x86_64
   srcname: cloc
@@ -1463,6 +1406,73 @@
     - tmancill@debian.org
   categories:
     - devel
+- repo: pureos_byzantium
+  subrepo: byzantium/main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.86"
+  origversion: 1.86-1
+  status: outdated
+  maintainers:
+    - jari.aalto@cante.net
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.96"
+  origversion: 1.96-1
+  status: outdated
+  maintainers:
+    - jari.aalto@cante.net
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: raspbian_stable
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: raspbian_testing
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.08"
+  origversion: 2.08-2
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: cloc
@@ -1504,16 +1514,6 @@
   status: newest
   licenses:
     - GPL-2.0-only|Artistic-2.0
-- repo: slackbuilds
-  srcname: development/cloc
-  visiblename: development/cloc
-  version: "2.10"
-  origversion: null
-  status: newest
-  maintainers:
-    - jebrhansen+sbo@gmail.com
-  categories:
-    - development
 - repo: solus
   srcname: cloc
   binname: cloc
