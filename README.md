@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10` (2026-07-04)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-11-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 23,656 · **Forks**: 1,126 · **Open issues**: 770 · **Contributors**: 143
+- **Stars**: 23,662 · **Forks**: 1,126 · **Open issues**: 770 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 743 · **Open issues**: 27 · **Commits**: 1362
+- **Releases**: 25 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 744 · **Open issues**: 26 · **Commits**: 1363
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 5 | 0 | 2 | 2 | 10 |
-| last60d | 2026-09-12 | 0 | 5 | 0 | 5 | 2 | 12 |
-| 90d | 2026-08-13 | 0 | 6 | 0 | 6 | 3 | 17 |
-| last180d | 2026-05-15 | 1 | 12 | 0 | 12 | 3 | 35 |
-| 360d | 2025-11-16 | 2 | 22 | 0 | 26 | 4 | 69 |
-| last720d | 2024-11-21 | 4 | 37 | 0 | 78 | 8 | 203 |
+| 30d | 2026-10-13 | 0 | 5 | 0 | 3 | 1 | 11 |
+| last60d | 2026-09-13 | 0 | 5 | 0 | 6 | 1 | 13 |
+| 90d | 2026-08-14 | 0 | 6 | 0 | 7 | 2 | 18 |
+| last180d | 2026-05-16 | 1 | 12 | 0 | 13 | 2 | 36 |
+| 360d | 2025-11-17 | 2 | 22 | 0 | 27 | 3 | 70 |
+| last720d | 2024-11-22 | 4 | 37 | 0 | 79 | 7 | 204 |
 
 ## Release assets
 
@@ -75,7 +75,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **141** distros on [repology.org](https://repology.org/project/cloc). **31** are ✅ on the latest upstream release, **84** are ⚠️ on an older version.
+Reported by **140** distros on [repology.org](https://repology.org/project/cloc). **31** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:48:01Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:46:11Z._
