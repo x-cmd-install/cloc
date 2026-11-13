@@ -14,7 +14,7 @@ x install cloc
 
 ## Code insight
 
-Total: **23,567** lines of code across **514** files in the top 5 languages.
+Total: **23,569** lines of code across **514** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -41,37 +41,35 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v2.10` (2026-07-04)
-- **Last commit**: 2026-11-12
-- **Assets in release**: 4
+- **Latest**: `v2.12` (2026-11-13)
+- **Last commit**: 2026-11-13
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 23,662 · **Forks**: 1,126 · **Open issues**: 770 · **Contributors**: 143
+- **Stars**: 23,668 · **Forks**: 1,125 · **Open issues**: 770 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 744 · **Open issues**: 26 · **Commits**: 1363
+- **Releases**: 26 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 744 · **Open issues**: 26 · **Commits**: 1367
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 5 | 0 | 3 | 1 | 11 |
-| last60d | 2026-09-13 | 0 | 5 | 0 | 6 | 1 | 13 |
-| 90d | 2026-08-14 | 0 | 6 | 0 | 7 | 2 | 18 |
-| last180d | 2026-05-16 | 1 | 12 | 0 | 13 | 2 | 36 |
-| 360d | 2025-11-17 | 2 | 22 | 0 | 27 | 3 | 70 |
-| last720d | 2024-11-22 | 4 | 37 | 0 | 79 | 7 | 204 |
+| 30d | 2026-10-14 | 1 | 5 | 0 | 3 | 1 | 15 |
+| last60d | 2026-09-14 | 1 | 5 | 0 | 5 | 1 | 17 |
+| 90d | 2026-08-15 | 1 | 6 | 0 | 7 | 2 | 22 |
+| last180d | 2026-05-17 | 2 | 12 | 0 | 13 | 2 | 40 |
+| 360d | 2025-11-18 | 3 | 22 | 0 | 27 | 3 | 74 |
+| last720d | 2024-11-23 | 5 | 37 | 0 | 79 | 7 | 208 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [cloc-2.10.exe](https://github.com/AlDanial/cloc/releases/download/v2.10/cloc-2.10.exe) | 9.5 MiB | `other` |
-| [cloc-2.10.pl](https://github.com/AlDanial/cloc/releases/download/v2.10/cloc-2.10.pl) | 792.4 KiB | `other` |
-| [release_notes-2.10.txt](https://github.com/AlDanial/cloc/releases/download/v2.10/release_notes-2.10.txt) | 56.8 KiB | `other` |
-| [sqlite_formatter](https://github.com/AlDanial/cloc/releases/download/v2.10/sqlite_formatter) | 1.8 KiB | `other` |
+| [cloc-2.12.exe](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.exe) | 9.5 MiB | `other` |
+| [cloc-2.12.pl](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.pl) | 806.6 KiB | `other` |
 
 ## Distribution status
 
@@ -100,4 +98,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T07:46:11Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:07:23Z._

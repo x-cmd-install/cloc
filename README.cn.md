@@ -14,7 +14,7 @@ x install cloc
 
 ## 代码洞察
 
-合计: **23,567** 行代码（覆盖前 5 种语言、共 **514** 个文件）。
+合计: **23,569** 行代码（覆盖前 5 种语言、共 **514** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
@@ -41,37 +41,35 @@ x install cloc
 
 ## 发布
 
-- **最新版本**: `v2.10` (2026-07-04)
-- **最近提交**: 2026-11-12
-- **Release 含资产**: 4 个
+- **最新版本**: `v2.12` (2026-11-13)
+- **最近提交**: 2026-11-13
+- **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 23,662 · **Fork**: 1,126 · **开放 issue**: 770 · **贡献者**: 143
+- **Star**: 23,668 · **Fork**: 1,125 · **开放 issue**: 770 · **贡献者**: 143
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 194 · **开放 PR**: 0 · **已关闭 issue**: 744 · **开放 issue**: 26 · **提交数**: 1363
+- **发布数**: 26 · **已合并 PR**: 194 · **开放 PR**: 0 · **已关闭 issue**: 744 · **开放 issue**: 26 · **提交数**: 1367
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 5 | 0 | 3 | 1 | 11 |
-| last60d | 2026-09-13 | 0 | 5 | 0 | 6 | 1 | 13 |
-| 90d | 2026-08-14 | 0 | 6 | 0 | 7 | 2 | 18 |
-| last180d | 2026-05-16 | 1 | 12 | 0 | 13 | 2 | 36 |
-| 360d | 2025-11-17 | 2 | 22 | 0 | 27 | 3 | 70 |
-| last720d | 2024-11-22 | 4 | 37 | 0 | 79 | 7 | 204 |
+| 30d | 2026-10-14 | 1 | 5 | 0 | 3 | 1 | 15 |
+| last60d | 2026-09-14 | 1 | 5 | 0 | 5 | 1 | 17 |
+| 90d | 2026-08-15 | 1 | 6 | 0 | 7 | 2 | 22 |
+| last180d | 2026-05-17 | 2 | 12 | 0 | 13 | 2 | 40 |
+| 360d | 2025-11-18 | 3 | 22 | 0 | 27 | 3 | 74 |
+| last720d | 2024-11-23 | 5 | 37 | 0 | 79 | 7 | 208 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cloc-2.10.exe](https://github.com/AlDanial/cloc/releases/download/v2.10/cloc-2.10.exe) | 9.5 MiB | `other` |
-| [cloc-2.10.pl](https://github.com/AlDanial/cloc/releases/download/v2.10/cloc-2.10.pl) | 792.4 KiB | `other` |
-| [release_notes-2.10.txt](https://github.com/AlDanial/cloc/releases/download/v2.10/release_notes-2.10.txt) | 56.8 KiB | `other` |
-| [sqlite_formatter](https://github.com/AlDanial/cloc/releases/download/v2.10/sqlite_formatter) | 1.8 KiB | `other` |
+| [cloc-2.12.exe](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.exe) | 9.5 MiB | `other` |
+| [cloc-2.12.pl](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.pl) | 806.6 KiB | `other` |
 
 ## 发行版状态
 
@@ -100,4 +98,4 @@ cloc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261112.yml` · 2026-11-12T07:46:15Z._
+_数据快照: `data/card/261113.yml` · 2026-11-13T07:07:26Z._
