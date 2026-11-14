@@ -47,7 +47,7 @@ x install cloc
 
 ## 流行度
 
-- **Star**: 23,668 · **Fork**: 1,125 · **开放 issue**: 770 · **贡献者**: 143
+- **Star**: 23,667 · **Fork**: 1,125 · **开放 issue**: 770 · **贡献者**: 143
 
 ## 累计统计
 
@@ -57,12 +57,12 @@ x install cloc
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 1 | 5 | 0 | 3 | 1 | 15 |
-| last60d | 2026-09-14 | 1 | 5 | 0 | 5 | 1 | 17 |
-| 90d | 2026-08-15 | 1 | 6 | 0 | 7 | 2 | 22 |
-| last180d | 2026-05-17 | 2 | 12 | 0 | 13 | 2 | 40 |
-| 360d | 2025-11-18 | 3 | 22 | 0 | 27 | 3 | 74 |
-| last720d | 2024-11-23 | 5 | 37 | 0 | 79 | 7 | 208 |
+| 30d | 2026-10-15 | 1 | 5 | 0 | 3 | 1 | 15 |
+| last60d | 2026-09-15 | 1 | 5 | 0 | 5 | 1 | 17 |
+| 90d | 2026-08-16 | 1 | 6 | 0 | 7 | 2 | 22 |
+| last180d | 2026-05-18 | 2 | 12 | 0 | 13 | 2 | 40 |
+| 360d | 2025-11-19 | 3 | 21 | 0 | 27 | 3 | 74 |
+| last720d | 2024-11-24 | 5 | 37 | 0 | 79 | 7 | 208 |
 
 ## Release 资产
 
@@ -73,7 +73,7 @@ x install cloc
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/cloc) 上共有 **140** 个发行版报告此项目。**31** 个 ✅ 已是最新上游版本，**83** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/cloc) 上共有 **140** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**110** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -82,12 +82,12 @@ x install cloc
 | Debian 13 | `2.04` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `2.06` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
-| Arch | `2.10` | ✅ latest |
-| Homebrew | `2.10` | ✅ latest |
-| Fedora rawhide | `2.10` | ✅ latest |
-| Nix unstable | `2.10` | ✅ latest |
-| Void | `2.10` | ✅ latest |
-| Alpine edge | `2.10` | ✅ latest |
+| Arch | `2.10` | ⚠️ outdated |
+| Homebrew | `2.12` | ✅ latest |
+| Fedora rawhide | `2.10` | ⚠️ outdated |
+| Nix unstable | `2.10` | ⚠️ outdated |
+| Void | `2.10` | ⚠️ outdated |
+| Alpine edge | `2.10` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -98,4 +98,4 @@ cloc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261113.yml` · 2026-11-13T07:07:26Z._
+_数据快照: `data/card/261114.yml` · 2026-11-14T07:17:57Z._
