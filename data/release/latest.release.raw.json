@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 10007191,
       "digest": "sha256:b800034063ae3e3733ce34579d5d74cacd4dc4b842534d3f4b910d5a03ef63b1",
-      "download_count": 16,
+      "download_count": 288,
       "created_at": "2026-11-13T05:12:27Z",
       "updated_at": "2026-11-13T05:12:33Z",
       "browser_download_url": "https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.exe"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 825981,
       "digest": "sha256:621592d34f835ef178115a1643f15ebc8e73ec1d47b5484c46376fc15b78f03e",
-      "download_count": 9,
+      "download_count": 110,
       "created_at": "2026-11-13T05:12:56Z",
       "updated_at": "2026-11-13T05:12:57Z",
       "browser_download_url": "https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.pl"

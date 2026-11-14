@@ -1,4 +1,70 @@
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.96"
+  origversion: 1.96-1
+  status: outdated
+  maintainers:
+    - jari.aalto@cante.net
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: raspbian_stable
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: raspbian_testing
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.08"
+  origversion: 2.08-2
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
 - repo: deepin_23
+  subrepo: main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "1.98"
+  origversion: 1.98-1
+  status: legacy
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: deepin_23
+  subrepo: community
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
+- repo: deepin_25
   subrepo: main
   srcname: cloc
   binnames:
@@ -22,19 +88,6 @@
   status: outdated
   maintainers:
     - tmancill@debian.org
-- repo: deepin_25
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.98"
-  origversion: 1.98-1
-  status: legacy
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: devuan_4_0
   subrepo: chimaera/main
   srcname: cloc
@@ -74,18 +127,6 @@
     - jung@openbsd.org
   categories:
     - textproc
-- repo: deepin_unstable
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.80"
-  origversion: 1.80-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
 - repo: adelie_current
   subrepo: user
   srcname: cloc
@@ -287,19 +328,18 @@
     - soeren+alpine@soeren-tempel.net
   licenses:
     - GPL-2.0-or-later Artistic-2.0
-- repo: deepin_23
-  subrepo: community
+- repo: deepin_unstable
+  subrepo: main
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
+  version: "1.80"
+  origversion: 1.80-1
   status: outdated
   maintainers:
+    - jari.aalto@cante.net
     - tmancill@debian.org
-  categories:
-    - devel
 - repo: alpine_3_20
   subrepo: community
   srcname: cloc
@@ -424,7 +464,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-r0
-  status: newest
+  status: outdated
   summary: Count lines of code
   maintainers:
     - soeren+alpine@soeren-tempel.net
@@ -437,7 +477,7 @@
   visiblename: cloc-doc
   version: "2.10"
   origversion: 2.10-r0
-  status: newest
+  status: outdated
   summary: Count lines of code (documentation)
   maintainers:
     - soeren+alpine@soeren-tempel.net
@@ -450,7 +490,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-alt1
-  status: newest
+  status: outdated
   summary: Count lines of code
   maintainers:
     - cas@altlinux.org
@@ -463,8 +503,8 @@
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.10"
-  origversion: 2.10-alt1
+  version: "2.12"
+  origversion: 2.12-alt1
   status: newest
   summary: Count lines of code
   maintainers:
@@ -492,7 +532,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -515,7 +555,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -526,7 +566,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-r0
-  status: newest
+  status: outdated
   summary: Count lines of source code
   licenses:
     - GPL-2.0-or-later
@@ -537,7 +577,7 @@
   visiblename: cloc-man
   version: "2.10"
   origversion: 2.10-r0
-  status: newest
+  status: outdated
   summary: Count lines of source code (manual pages)
   licenses:
     - GPL-2.0-or-later
@@ -546,7 +586,7 @@
   visiblename: Count Lines of Code (CLOC)
   version: 2.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Cloc counts blank lines, comment lines, and physical lines of source code in many programming languages
 - repo: cygwin
   srcname: cloc
@@ -656,7 +696,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1.el9
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -669,7 +709,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1.el10_3
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -681,7 +721,7 @@
   visiblename: dev-util/cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: Counts blank lines, comment lines, and physical lines of source code
   maintainers:
     - fallback-mnt-exherbo@repology
@@ -716,20 +756,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: release
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.90"
-  origversion: 1.90-9.fc40
-  status: legacy
-  summary: Count lines of code
-  licenses:
-    - GPLv2+
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: updates
   srcname: cloc
   binnames:
@@ -743,18 +769,18 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: fedora_41
-  subrepo: updates
+- repo: fedora_40
+  subrepo: release
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.06"
-  origversion: 2.06-1.fc41
-  status: outdated
+  version: "1.90"
+  origversion: 1.90-9.fc40
+  status: legacy
   summary: Count lines of code
   licenses:
-    - GPL-2.0-or-later
+    - GPLv2+
   categories:
     - Unspecified
 - repo: fedora_41
@@ -771,14 +797,14 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: fedora_42
+- repo: fedora_41
   subrepo: updates
   srcname: cloc
   binnames:
     - cloc
   visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-1.fc42
+  version: "2.06"
+  origversion: 2.06-1.fc41
   status: outdated
   summary: Count lines of code
   licenses:
@@ -799,6 +825,20 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
+- repo: fedora_42
+  subrepo: updates
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.08"
+  origversion: 2.08-1.fc42
+  status: outdated
+  summary: Count lines of code
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
 - repo: fedora_43
   subrepo: updates
   srcname: cloc
@@ -807,7 +847,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1.fc43
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -828,6 +868,20 @@
   categories:
     - Unspecified
 - repo: fedora_44
+  subrepo: updates
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.10"
+  origversion: 2.10-1.fc44
+  status: outdated
+  summary: Count lines of code
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_44
   subrepo: release
   srcname: cloc
   binnames:
@@ -841,20 +895,6 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: fedora_44
-  subrepo: updates
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.10"
-  origversion: 2.10-1.fc44
-  status: newest
-  summary: Count lines of code
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
 - repo: fedora_rawhide
   subrepo: development
   srcname: cloc
@@ -863,7 +903,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1.fc45
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -875,7 +915,7 @@
   visiblename: misc/cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: Count lines of code
   maintainers:
     - sunpoet@freebsd.org
@@ -917,12 +957,12 @@
   visiblename: cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: Count source lines of code (SLOC) and other source code metrics
 - repo: homebrew
   srcname: cloc
   visiblename: cloc
-  version: "2.10"
+  version: "2.12"
   origversion: null
   status: newest
   summary: Statistics utility to count lines of code
@@ -1015,13 +1055,26 @@
     - GPL-2+
   categories:
     - dev-util
+- repo: pureos_landing
+  subrepo: landing/main
+  srcname: cloc
+  binnames:
+    - cloc
+  visiblename: cloc
+  version: "2.04"
+  origversion: 2.04-1
+  status: outdated
+  maintainers:
+    - tmancill@debian.org
+  categories:
+    - devel
 - repo: macports
   srcname: textproc/cloc
   binname: cloc
   visiblename: cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: counts lines of source code
   maintainers:
     - nomaintainer@macports.org
@@ -1066,7 +1119,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1.mga11
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPLv2+
@@ -1079,7 +1132,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -1090,7 +1143,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -1101,7 +1154,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -1112,7 +1165,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-2
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - spdx:GPL-2.0-or-later
@@ -1176,7 +1229,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: Program that counts lines of source code
   maintainers:
     - robert@rycee.net
@@ -1280,7 +1333,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: 2.10-1
-  status: newest
+  status: outdated
   summary: Count lines of code
   licenses:
     - GPL-2.0-or-later
@@ -1388,59 +1441,6 @@
     - tmancill@debian.org
   categories:
     - devel
-- repo: pureos_landing
-  subrepo: landing/main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "1.96"
-  origversion: 1.96-1
-  status: outdated
-  maintainers:
-    - jari.aalto@cante.net
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: raspbian_stable
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.04"
-  origversion: 2.04-1
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
-- repo: raspbian_testing
-  subrepo: main
-  srcname: cloc
-  binnames:
-    - cloc
-  visiblename: cloc
-  version: "2.08"
-  origversion: 2.08-2
-  status: outdated
-  maintainers:
-    - tmancill@debian.org
-  categories:
-    - devel
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: cloc
@@ -1477,7 +1477,7 @@
   subrepo: main
   binname: cloc
   visiblename: cloc
-  version: "2.10"
+  version: "2.12"
   origversion: null
   status: newest
   licenses:
@@ -1487,7 +1487,7 @@
   visiblename: development/cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - jebrhansen+sbo@gmail.com
   categories:
@@ -1498,7 +1498,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: null
-  status: newest
+  status: outdated
   summary: Count lines of code in many programming languages
   maintainers:
     - maddock.evan@vivaldi.net
@@ -1519,7 +1519,7 @@
 - repo: t2
   srcname: cloc
   visiblename: cloc
-  version: "2.10"
+  version: "2.12"
   origversion: null
   status: newest
   summary: Count Lines of Code
@@ -1682,7 +1682,7 @@
   visiblename: cloc
   version: "2.10"
   origversion: "2.10_1"
-  status: newest
+  status: outdated
   summary: Count Lines of Code
   maintainers:
     - leah@vuxu.org
