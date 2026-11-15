@@ -14,7 +14,7 @@ x install cloc
 
 ## Code insight
 
-Total: **23,569** lines of code across **514** files in the top 5 languages.
+Total: **23,519** lines of code across **514** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.12` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 23,667 · **Forks**: 1,125 · **Open issues**: 770 · **Contributors**: 143
+- **Stars**: 23,668 · **Forks**: 1,125 · **Open issues**: 770 · **Contributors**: 143
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 744 · **Open issues**: 26 · **Commits**: 1367
+- **Releases**: 26 · **Merged PRs**: 194 · **Open PRs**: 0 · **Closed issues**: 744 · **Open issues**: 26 · **Commits**: 1368
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 5 | 0 | 3 | 1 | 15 |
-| last60d | 2026-09-15 | 1 | 5 | 0 | 5 | 1 | 17 |
-| 90d | 2026-08-16 | 1 | 6 | 0 | 7 | 2 | 22 |
-| last180d | 2026-05-18 | 2 | 12 | 0 | 13 | 2 | 40 |
-| 360d | 2025-11-19 | 3 | 21 | 0 | 27 | 3 | 74 |
-| last720d | 2024-11-24 | 5 | 37 | 0 | 79 | 7 | 208 |
+| 30d | 2026-10-16 | 1 | 5 | 0 | 3 | 1 | 12 |
+| last60d | 2026-09-16 | 1 | 5 | 0 | 5 | 1 | 16 |
+| 90d | 2026-08-17 | 1 | 6 | 0 | 7 | 2 | 23 |
+| last180d | 2026-05-19 | 2 | 12 | 0 | 13 | 2 | 40 |
+| 360d | 2025-11-20 | 3 | 21 | 0 | 27 | 3 | 74 |
+| last720d | 2024-11-25 | 5 | 37 | 0 | 79 | 7 | 209 |
 
 ## Release assets
 
@@ -73,7 +73,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **140** distros on [repology.org](https://repology.org/project/cloc). **4** are ✅ on the latest upstream release, **110** are ⚠️ on an older version.
+Reported by **140** distros on [repology.org](https://repology.org/project/cloc). **9** are ✅ on the latest upstream release, **105** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -84,7 +84,7 @@ Reported by **140** distros on [repology.org](https://repology.org/project/cloc)
 | Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
 | Arch | `2.10` | ⚠️ outdated |
 | Homebrew | `2.12` | ✅ latest |
-| Fedora rawhide | `2.10` | ⚠️ outdated |
+| Fedora rawhide | `2.12` | ✅ latest |
 | Nix unstable | `2.10` | ⚠️ outdated |
 | Void | `2.10` | ⚠️ outdated |
 | Alpine edge | `2.10` | ⚠️ outdated |
@@ -98,4 +98,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:17:54Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:05:08Z._
