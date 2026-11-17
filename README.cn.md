@@ -47,22 +47,22 @@ x install cloc
 
 ## 流行度
 
-- **Star**: 23,669 · **Fork**: 1,125 · **开放 issue**: 770 · **贡献者**: 143
+- **Star**: 23,673 · **Fork**: 1,126 · **开放 issue**: 770 · **贡献者**: 143
 
 ## 累计统计
 
-- **发布数**: 26 · **已合并 PR**: 194 · **开放 PR**: 0 · **已关闭 issue**: 744 · **开放 issue**: 26 · **提交数**: 1368
+- **发布数**: 26 · **已合并 PR**: 194 · **开放 PR**: 1 · **已关闭 issue**: 744 · **开放 issue**: 26 · **提交数**: 1368
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 1 | 5 | 0 | 3 | 1 | 12 |
-| last60d | 2026-09-17 | 1 | 5 | 0 | 5 | 1 | 16 |
-| 90d | 2026-08-18 | 1 | 6 | 0 | 7 | 2 | 23 |
-| last180d | 2026-05-20 | 2 | 12 | 0 | 13 | 2 | 40 |
-| 360d | 2025-11-21 | 3 | 21 | 0 | 26 | 3 | 74 |
-| last720d | 2024-11-26 | 5 | 37 | 0 | 79 | 7 | 209 |
+| 30d | 2026-10-18 | 1 | 5 | 1 | 3 | 1 | 12 |
+| last60d | 2026-09-18 | 1 | 5 | 1 | 5 | 1 | 16 |
+| 90d | 2026-08-19 | 1 | 6 | 1 | 7 | 2 | 23 |
+| last180d | 2026-05-21 | 2 | 12 | 1 | 13 | 2 | 40 |
+| 360d | 2025-11-22 | 3 | 21 | 1 | 26 | 3 | 74 |
+| last720d | 2024-11-27 | 5 | 37 | 1 | 77 | 7 | 209 |
 
 ## Release 资产
 
@@ -70,24 +70,6 @@ x install cloc
 |------|-----:|----------|
 | [cloc-2.12.exe](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.exe) | 9.5 MiB | `other` |
 | [cloc-2.12.pl](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.pl) | 806.6 KiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/cloc) 上共有 **140** 个发行版报告此项目。**11** 个 ✅ 已是最新上游版本，**103** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `2.08` | ⚠️ outdated |
-| Debian 14 | `2.08` | ⚠️ outdated |
-| Debian 13 | `2.04` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.06` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
-| Arch | `2.10` | ⚠️ outdated |
-| Homebrew | `2.12` | ✅ latest |
-| Fedora rawhide | `2.12` | ✅ latest |
-| Nix unstable | `2.12` | ✅ latest |
-| Void | `2.10` | ⚠️ outdated |
-| Alpine edge | `2.10` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -98,4 +80,4 @@ cloc 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261116.yml` · 2026-11-16T07:20:07Z._
+_数据快照: `data/card/261117.yml` · 2026-11-17T10:19:24Z._
