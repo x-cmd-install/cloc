@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 23,691 · **Forks**: 1,126 · **Open issues**: 770 · **Contributors**: 144
+- **Stars**: 23,695 · **Forks**: 1,125 · **Open issues**: 770 · **Contributors**: 144
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 1 | 0 | 1 | 0 | 8 |
-| last60d | 2026-09-28 | 1 | 6 | 0 | 4 | 1 | 18 |
-| 90d | 2026-08-29 | 1 | 6 | 0 | 7 | 2 | 24 |
-| last180d | 2026-05-31 | 2 | 12 | 0 | 13 | 2 | 42 |
-| 360d | 2025-12-02 | 3 | 22 | 0 | 25 | 3 | 76 |
-| last720d | 2024-12-07 | 5 | 38 | 0 | 75 | 7 | 205 |
+| 30d | 2026-10-29 | 1 | 1 | 0 | 1 | 0 | 8 |
+| last60d | 2026-09-29 | 1 | 6 | 0 | 4 | 1 | 18 |
+| 90d | 2026-08-30 | 1 | 6 | 0 | 7 | 2 | 24 |
+| last180d | 2026-06-01 | 2 | 12 | 0 | 13 | 2 | 42 |
+| 360d | 2025-12-03 | 3 | 22 | 0 | 25 | 3 | 76 |
+| last720d | 2024-12-08 | 5 | 38 | 0 | 75 | 7 | 205 |
 
 ## Release assets
 
@@ -70,24 +70,6 @@ Lowest-scoring checks:
 |-------|-----:|--------|
 | [cloc-2.12.exe](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.exe) | 9.5 MiB | `other` |
 | [cloc-2.12.pl](https://github.com/AlDanial/cloc/releases/download/v2.12/cloc-2.12.pl) | 806.6 KiB | `other` |
-
-## Distribution status
-
-Reported by **139** distros on [repology.org](https://repology.org/project/cloc). **22** are ✅ on the latest upstream release, **90** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.12` | ✅ latest |
-| Debian 14 | `2.08` | ⚠️ outdated |
-| Debian 13 | `2.04` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.06` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `1.98` | ⚠️ outdated |
-| Arch | `2.10` | ⚠️ outdated |
-| Homebrew | `2.12` | ✅ latest |
-| Fedora rawhide | `2.12` | ✅ latest |
-| Nix unstable | `2.12` | ✅ latest |
-| Void | `2.12` | ✅ latest |
-| Alpine edge | `2.12` | ✅ latest |
 
 ## Improve this data
 
@@ -98,4 +80,4 @@ Install metadata for cloc lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:23:55Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:06:48Z._
